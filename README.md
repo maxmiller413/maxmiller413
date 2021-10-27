@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Max 🙋‍♂️
+
+# I'm a Developer, an avid Sports Fan and a proud new Fur Dad! 
+
+- 🔭 I’m currently working on a Node.js course.
+- 🌱 I’m currently learning Node.js and Redux, and plan to learn Typescript next.
+- 👯 I’m looking to collaborate with other developers and content creators. 
+- 🥅 2021 Goal: Land front end developer position
+- ⚡ Fun fact: I love playing sports, enjoying the outdoors, trying new restaurants, and traveling to new countries to experience new cultures.
+
 
 <!--
 **maxmiller413/maxmiller413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
