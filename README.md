@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center">Hi there, I'm Max  🙋‍♂️</h1>
+
+![](banner.png)
+
 <h3 align="center">I'm a passionate Developer, an avid Sports Fan and a proud new Fur Dad out of Chicago!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxmiller413&label=Profile%20views&color=0e75b6&style=flat" alt="maxmiller413" /> </p>
