@@ -1,40 +1,10 @@
-<!-- ### Hi there, I'm Max 🙋‍♂️
-
-# I'm a Developer, an avid Sports Fan and a proud new Fur Dad! 
-
-- 🔭 I’m currently working on a Node.js course.
-- 🌱 I’m currently learning Node.js and Redux, and plan to learn Typescript next.
-- 👯 I’m looking to collaborate with other developers and content creators. 
-- 🥅 2021 Goal: Land front end developer position
-- ⚡ Fun fact: I love playing sports, enjoying the outdoors, trying new restaurants, and traveling to new countries to experience new cultures.
--->
- 
-<!--
-**maxmiller413/maxmiller413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi there, I'm Max  🙋‍♂️</h1>
-
-![](banner.png)
 
 <h3 align="center">I'm a passionate Developer, an avid Sports Fan and a proud new Fur Dad out of Chicago!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxmiller413&label=Profile%20views&color=0e75b6&style=flat" alt="maxmiller413" /> </p>
+![](banner.png)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxmiller413" alt="maxmiller413" /></a> </p>
-
-- 🔭 I’m currently working on **a Node.js course**
+<!-- - 🔭 I’m currently working on **a Node.js course** -->
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -44,7 +14,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **maxmiller413@gmail.com**
 
-- ⚡ Fun fact **I love playing sports, enjoying the outdoors, trying new restaurants, and traveling to new countries to experience new cultures**
+- ⚡ Fun fact **I love sports, the outdoors, trying new restaurants, and traveling to new countries to experience new cultures**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxmiller413&label=Profile%20views&color=0e75b6&style=flat" alt="maxmiller413" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -60,7 +32,37 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxmiller413&" alt="maxmiller413" /></p>
 
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxmiller413" alt="maxmiller413" /></a> </p> -->
 
+
+<!-- ### Hi there, I'm Max 🙋‍♂️
+
+# I'm a Developer, an avid Sports Fan and a proud new Fur Dad! 
+
+- 🔭 I’m currently working on a Node.js course.
+- 🌱 I’m currently learning Node.js and Redux, and plan to learn Typescript next.
+- 👯 I’m looking to collaborate with other developers and content creators. 
+- 🥅 2021 Goal: Land front end developer position
+- ⚡ Fun fact: I love playing sports, enjoying the outdoors, trying new restaurants, and traveling to new countries to experience new cultures.
+-->
+ 
+ 
+ 
+ 
+<!--
+**maxmiller413/maxmiller413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 
 
