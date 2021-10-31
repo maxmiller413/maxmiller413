@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Max  🙋‍♂️</h1>
 
-<h3 align="center">I'm a passionate Developer, an avid Sports Fan and a proud new Fur Dad out of Chicago!</h3>
+<h3 align="center">I'm a passionate Developer, avid Sports Fan and proud new Fur Dad out of Chicago!</h3>
 
 ![](banner.png)
 
