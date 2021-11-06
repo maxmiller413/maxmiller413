@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a passionate Developer, avid Sports Fan and proud new Fur Dad out of Chicago!</h3>
 
-![](banner.png)
+<!-- ![](banner.png) -->
 
 <!-- - 🔭 I’m currently working on **a Node.js course** -->
 
